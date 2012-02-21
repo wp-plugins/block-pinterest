@@ -1,4 +1,4 @@
-=== block-pinterest ===
+=== Block Pinterest ===
 Contributors: lgladdy
 Donate link: http://bit.ly/donate-lgladdy
 Tags: pinterest, block, meta, remove
@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-block-pinterest is a wordpress plugin to disallow pinterest using your blogs pictures or contents on the pinterest site.
+Block Pinterest is a simple wordpress plugin to disallow pinterest using your blogs pictures or contents on the pinterest site.
 
 == Description ==
 
-block-pinterest is a wordpress plugin to disallow pinterest using your blogs pictures or contents on the pinterest site.
+Block Pinterest is a wordpress plugin to disallow pinterest using your blogs pictures or contents on the pinterest site.
 
 It uses the standard method of blocking pinterest as provided by pinterest themselves, and adds a meta tag to your pages.
 
