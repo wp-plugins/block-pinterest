@@ -3,8 +3,8 @@ Contributors: lgladdy
 Donate link: http://bit.ly/donate-lgladdy
 Tags: pinterest, block, meta, remove
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 1.0.3
+Tested up to: 4.1
+Stable tag: 1.0.4
 
 Block Pinterest is a simple wordpress plugin to disallow pinterest using your blogs pictures or contents on the pinterest site.
 
@@ -22,7 +22,7 @@ Just install!
 
 = Can I block specific pages =
 
-Would you find that useful? I can add that in a (very near) future release. Let me on on twitter @lgladdy.
+Would you find that useful? I can add that in a (very near) future release. Let me know on twitter @lgladdy.
 
 == Changelog ==
 
