@@ -4,7 +4,7 @@ Plugin Name: Block Pinterest
 Plugin URI: http://wordpress.org/extend/plugins/block-pinterest/
 Description: Adds the required meta tags to stop your blog and image content appearing on Pinterest
 Author: Liam Gladdy
-Version: 1.0.4
+Version: 1.0.5
 Author URI: http://www.twitter.com/lgladdy
 */
 
